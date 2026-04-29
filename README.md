@@ -1,6 +1,5 @@
-# Python Things
-
-A collection of useful Python scripts.
+# python-things
+крутые пайтон преколы
 
 ## Scripts
 
