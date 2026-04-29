@@ -40,8 +40,3 @@ python lyrics_player.py
 Просто введи название песни, и наслаждайся вайбом!
 
 ---
-
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/JettaXP">JettaXP</a></p>
-  <img src="https://img.shields.io/badge/Material--You-Inspired-purple?style=flat-square" alt="Material You">
-</div>
